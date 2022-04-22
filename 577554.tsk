@@ -1,0 +1,63 @@
+<Task type="AAT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+  <Point type="Start">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="9.45002365112" latitude="48.4103836345"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="200.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="9.4512681961" latitude="48.4073069664"/>
+    </Waypoint>
+    <ObservationZone type="Sector" radius="200.0" start_radial="0.0" end_radial="0.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="9.43770694733" latitude="48.4051133024"/>
+    </Waypoint>
+    <ObservationZone type="Sector" radius="200.0" start_radial="0.0" end_radial="0.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="9.4365696907" latitude="48.4083040552"/>
+    </Waypoint>
+    <ObservationZone type="Sector" radius="200.0" start_radial="0.0" end_radial="0.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="9.45002365112" latitude="48.4103551477"/>
+    </Waypoint>
+    <ObservationZone type="Sector" radius="200.0" start_radial="0.0" end_radial="0.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="9.43096923828" latitude="48.4074494089"/>
+    </Waypoint>
+    <ObservationZone type="Sector" radius="200.0" start_radial="0.0" end_radial="0.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="9.43294334411" latitude="48.4018938579"/>
+    </Waypoint>
+    <ObservationZone type="Sector" radius="200.0" start_radial="0.0" end_radial="0.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="9.45663261413" latitude="48.4055691365"/>
+    </Waypoint>
+    <ObservationZone type="Sector" radius="200.0" start_radial="0.0" end_radial="0.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="9.45457267761" latitude="48.411124286"/>
+    </Waypoint>
+    <ObservationZone type="Sector" radius="200.0" start_radial="0.0" end_radial="0.0"/>
+  </Point>
+  <Point type="Finish">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="9.45010948181" latitude="48.4104406081"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="1000.0"/>
+  </Point>
+</Task>
+
